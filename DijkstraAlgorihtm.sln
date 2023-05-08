@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstraAlgorithm", "DijkstraAlgorithm\DijkstraAlgorithm.csproj", "{137012AD-C910-4E44-9E60-5CD2E013E358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137012AD-C910-4E44-9E60-5CD2E013E358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137012AD-C910-4E44-9E60-5CD2E013E358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137012AD-C910-4E44-9E60-5CD2E013E358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137012AD-C910-4E44-9E60-5CD2E013E358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
